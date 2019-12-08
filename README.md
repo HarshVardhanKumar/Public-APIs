@@ -53,7 +53,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Placeholder Images](#placeholder-images)
 - [Places](#places)
 - [Product](#product)
-- [Quotes](#quotes)
+- [Quotes](#qu)
 - [Science](#science)
 - [Social Media](#social-media)
 - [Source Control](#source-control)
