@@ -41,11 +41,10 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Math](#math)
 - [Medical](#medical)
 - [Miscellaneous](#miscellaneous)
-- [Movies](#movies)
 - [Music](#music)
 	- [Music Analytics](#music-analytics)
 	- [Music Discovery](#music-discovery)
-	- [Music Identification](#music-identification)
+	- [Music Identification](#music-identification
     - [Music Lyrics](#music-lyrics)
     - [Music Store](#music-stores)
 - [Natural Language Processing](#natural-language-processing)
@@ -54,7 +53,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Places](#places)
 - [Product](#product)
 - [Quotes](#qu)
-- [Science](#science)
+
 - [Social Media](#social-media)
 - [Source Control](#source-control)
 - [Sport](#sport)
